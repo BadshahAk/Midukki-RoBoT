@@ -16,22 +16,22 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
-            "value": "",
+            "value": "5305723083:AAESS_sjS2DLdeG32UYZQSqXZz7yhr2cHqc",
             "required": true
         },
         "API_ID": {
             "description": "Get this value from telegram.org",
-            "value": "",
+            "value": "21715778",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from telegram.org",
-            "value": "",
+            "value": "28b188006343f4bac797935ccd71b5de",
             "required": true
         },
         "CHANNELS": {
             "description": "Username or ID of channel or group. Separate multiple IDs by space",
-            "value": "",
+            "value": "-1001557795438",
             "required": true
         },
         "COLLECTION_NAME": {
@@ -46,22 +46,22 @@
         },
         "DATABASE_URL": {
             "description": "Name of the database in https://www.mongodb.com/. For more help watch this https://youtu.be/mD9veNL7KoE",
-            "value": "",
+            "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "FORCE_SUB": {
             "description": "ID of channel. Without subscribing this channel users cannot use Autofilter",
-            "value": "",
+            "value": "-1001770417919",
             "required": false
         },
         "GITHUB_USERNAME": {
             "description": "Enter Your Github Username Pr0fess0r-99",
-            "value": "Pr0fess0r-99",
+            "value": "BadshahAk",
             "required": true
         },
         "LOG_CHANNEL": {
             "description": "A channel to log the activities of bot. Make sure bot is an admin in the channel",
-            "value": "",
+            "value": "-1001770417919",
             "required": true
         },
         "REPO_USERNAME": {
@@ -96,7 +96,7 @@
         },
         "BOT_PICS": {
             "description": "Telegraph links of images to show in start message.( Multiple images can be used separated by space )",
-            "value": "",
+            "value": "https://telegra.ph/file/b53de970b6f0b2cbcbe31.jpg",
             "required": false
         },
         "STRING_SESSION": {
@@ -131,7 +131,7 @@
         },
         "SUPPORT_CHAT": {
             "description": "Your Support chat url or Your Link [with https:// or https://t.me/] Don't use @",
-            "value": "https://t.me/Mo_Tech_YT",
+            "value": "https://t.me/Pagal_panti_zone",
             "required": false
         }
     },
